@@ -14,6 +14,7 @@ A text classification project to detect fake vs. real news articles — built as
 - [x] Vectorization (TF-IDF)
 - [x] Model training & evaluation
 - [x] Error analysis
+- [x] Deployed (streamlit cloud)
 
 ## Key Data Quality & Leakage Findings
 
@@ -103,4 +104,4 @@ Errors are low and roughly symmetric: 135 Fake News articles misclassified as Re
 
 🔗 **[Try it live](https://fake-and-real-news-classifier-btcvn7gm7cr9vdhznbtyrh.streamlit.app/)**
 
-![App screenshot](APP.png)
+![App screenshot](assests/App-demo.png)
