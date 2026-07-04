@@ -98,3 +98,9 @@ This dataset has several well-documented but easy-to-miss traps that would let a
 ### Confusion Matrix
 
 Errors are low and roughly symmetric: 135 Fake News articles misclassified as Real, 71 Real News misclassified as Fake (out of 8,837 test articles) — no strong bias toward either error direction.
+
+## Live Demo
+
+🔗 **[Try it live](https://fake-and-real-news-classifier-btcvn7gm7cr9vdhznbtyrh.streamlit.app/)**
+
+![App screenshot](APP.png)
