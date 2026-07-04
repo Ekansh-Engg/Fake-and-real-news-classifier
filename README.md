@@ -11,9 +11,9 @@ A text classification project to detect fake vs. real news articles — built as
 - [x] Data exploration & merging
 - [x] Data leakage detection & fixes
 - [x] Text preprocessing pipeline
-- [ ] Vectorization (TF-IDF)
-- [ ] Model training & evaluation
-- [ ] Error analysis
+- [x] Vectorization (TF-IDF)
+- [x] Model training & evaluation
+- [x] Error analysis
 
 ## Key Data Quality & Leakage Findings
 
